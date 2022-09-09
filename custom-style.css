@@ -1,0 +1,142 @@
+body {
+    background-color: #F2F2F2 !important;
+}
+
+.st-heading {
+    margin-top: -10px !important;
+}
+
+.st-hotel-header {
+    align-items: center !important;
+    margin-bottom: 10px !important;
+}
+
+.old-price {
+    text-decoration: line-through;
+    font-size: 20px;
+    text-align: center;
+    margin-bottom: -5px;
+}
+
+.villa-link {
+    cursor: pointer;
+    text-decoration: underline 2px #30D5C8;
+    color: #1D1D1F;
+    font-size: 16px;
+}
+
+.book-btn-custom {
+    width: 50% !important;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 15px;
+}
+
+
+.main-price {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.price-per {
+    margin-top: 10px !important;
+
+}
+
+.form-control {
+    height: 55px !important;
+}
+
+.dark-custom {
+    background-color: #494d55 !important;
+    border: 3px solid #43c2b7 !important;
+    border-radius: 10px !important;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.custom-form {
+    /* background-color: rgb(197, 255, 236); */
+}
+
+.btn-block {
+    /* width: 80% ; */
+    display: flex !important;
+    justify-content: flex-start !important;
+    align-items: center !important;
+    /* background-color: bisque; */
+}
+
+.field-name {
+    font-size: 1.5em;
+}
+
+
+.transfer-selection {
+    width: 100%;
+    /* background-color: #30D5C8; */
+    height: 100px;
+}
+
+
+.meal-selection-block {
+    right: auto;
+    width: 100%;
+
+}
+
+.bank-iframe {
+    width: 100%;
+    /* height: 1000px; */
+    border: 0;
+}
+
+.not-prefered {
+    color:#adadad !important;
+}
+
+.radio-price-button {
+    display: flex;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    /* border: red 2px solid; */
+    align-items: flex-start;
+    margin-left: 10px;
+}
+
+.additional-price {
+    margin-top: 2px;
+    margin-bottom: 0;
+    margin-right: 10px;
+    font-size: 1.5em;
+}
+
+.meal-type-text {
+    font-size: 1.5em;
+    font-weight: normal;
+}
+
+.selected-meal {
+    background-color: rgb(48, 213, 200, 0.5);
+    border-radius: 10px;
+    border-bottom: none;
+
+}
+
+.radio-label {
+    margin: 0;
+}
+
+
+.radio-price-item {
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+    border-bottom: 1px solid #d9d9d9;
+    margin-top: 3px;
+    margin-bottom: 6px;
+
+
+}
